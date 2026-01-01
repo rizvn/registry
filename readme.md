@@ -1,5 +1,9 @@
-## Example Usage of the Library
+### Install
+```sh
+go get github.com/rizvn/registry
+```
 
+### Example Usage of the Library
 Create a registry instance and initialize it:
 ```go
 register := registry.Registry{}
